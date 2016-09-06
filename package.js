@@ -8,7 +8,7 @@ Package.describe({
 });
 
 Npm.depends({ 
-  "newrelic": "1.11.3" 
+  "newrelic": "1.30.1" 
 });
 
 Package.on_use(function(api) {
